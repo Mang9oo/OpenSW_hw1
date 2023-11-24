@@ -15,4 +15,18 @@
 3. TensorFlow가 GPU 메모리를 필요한 만큼만 할당하도록 하는 설정<br>
 &nbsp; os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true' 를 사용
 
+4. requirements를 아래와 같이 수정<br>
+ &nbsp; numpy
+&nbsp; scipy
+&nbsp; Pillow
+&nbsp; cython
+&nbsp; matplotlib
+&nbsp; scikit-image
+&nbsp; tensorflow==1.3.0
+&nbsp; keras==2.0.8
+&nbsp; opencv-python
+&nbsp; h5py
+&nbsp; imgaug
+&nbsp; IPython[all]
+
 
