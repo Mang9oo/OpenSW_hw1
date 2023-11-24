@@ -16,17 +16,17 @@
 &nbsp; os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true' 를 사용
 
 4. requirements를 아래와 같이 수정<br>
- &nbsp; numpy
-&nbsp; scipy
-&nbsp; Pillow
-&nbsp; cython
-&nbsp; matplotlib
-&nbsp; scikit-image
-&nbsp; tensorflow==1.3.0
-&nbsp; keras==2.0.8
-&nbsp; opencv-python
-&nbsp; h5py
-&nbsp; imgaug
-&nbsp; IPython[all]
+ &nbsp; numpy<br>
+&nbsp; scipy<br>
+&nbsp; Pillow<br>
+&nbsp; cython<br>
+&nbsp; matplotlib<br>
+&nbsp; scikit-image<br>
+&nbsp; tensorflow==1.3.0<br>
+&nbsp; keras==2.0.8<br>
+&nbsp; opencv-python<br>
+&nbsp; h5py<br>
+&nbsp; imgaug<br>
+&nbsp; IPython[all]<br>
 
 
